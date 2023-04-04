@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:wght@300;400;500&family=Inter&family=Overpass:wght@400;700&display=swap");
+
+body {
+  margin: 0px;
+}
+.conteiner {
+  width: 1298px;
+  margin: 0 auto;
+}
+.header {
+}
+.nav {
+  border: 1px black solid;
+  width: 458px;
+  height: 38px;
+  list-style: none;
+  display: flex;
+  margin-left: 882px;
+  margin-top: 25px;
+  padding: 0px;
+  align-items: center;
+}
+.nav__link {
+  width: 81px;
+  height: 32px;
+  margin-top: 3px;
+  padding: 6px 22px 6px 22px;
+  gap: 10px;
+  text-decoration: none;
+}
+.nav__text {
+  font-family: Overpass;
+  font-style: Regular;
+  font-size: 16px;
+  line-height: 20.26px;
+  line-height: 100%;
+  text-align: center top;
+  width: 37px;
+  height: 20px;
+  margin-top: 6px;
+  margin-left: 22px;
+  text-align: center;
+}
