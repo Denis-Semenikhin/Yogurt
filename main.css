@@ -7,18 +7,19 @@ body {
   width: 1298px;
   margin: 0 auto;
 }
-.header {
-}
 .nav {
   border: 1px black solid;
   width: 458px;
   height: 38px;
   list-style: none;
   display: flex;
-  margin-left: 882px;
-  margin-top: 25px;
+  margin-left: 793px;
+  margin-top: 134px;
   padding: 0px;
   align-items: center;
+  float: right;
+  position: relative;
+  left: -126px;
 }
 .nav__link {
   width: 81px;
@@ -29,8 +30,9 @@ body {
   text-decoration: none;
 }
 .nav__text {
-  font-family: Overpass;
-  font-style: Regular;
+  color: rgb(37, 27, 55);
+  font-family: "Overpass";
+  font-weight: 400;
   font-size: 16px;
   line-height: 20.26px;
   line-height: 100%;
@@ -40,4 +42,41 @@ body {
   margin-top: 6px;
   margin-left: 22px;
   text-align: center;
+}
+.poisk-blok {
+  height: 38px;
+  position: relative;
+  left: -14px;
+}
+.logo {
+  font-family: "Fira Sans Condensed";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  width: 126px;
+  height: 29px;
+  margin-top: 138px;
+  margin-left: 11px;
+  position: relative;
+  float: left;
+}
+.shadow {
+  width: 281px;
+  height: 295px;
+  position: absolute;
+}
+.header-blok-text {
+  border: 1px black solid;
+  width: 514px;
+  height: 293px;
+  margin-top: 328px;
+  margin-left: 10px;
+  position: absolute;
+}
+.header-blok-text__text1 {
+}
+.header-blok-text__text2 {
+}
+.header-blok-text__text3 {
 }
