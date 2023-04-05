@@ -7,18 +7,23 @@ body {
   width: 1298px;
   margin: 0 auto;
 }
+.header {
+  width: 1500px;
+  margin: 0 auto;
+  height: 734px;
+}
 .nav {
   border: 1px black solid;
   width: 458px;
   height: 38px;
   list-style: none;
   display: flex;
-  margin-left: 667px;
+  margin-left: 656px;
   margin-top: 134px;
-  padding: 0px;
   align-items: center;
   float: right;
   position: relative;
+  z-index: 1;
   left: -126px;
 }
 .nav__link {
@@ -67,7 +72,7 @@ body {
   position: absolute;
 }
 .header-blok-text {
-  width: 522px;
+  width: 524px;
   height: 293px;
   margin-top: 328px;
   margin-left: 10px;
@@ -96,7 +101,8 @@ body {
 }
 .header-blok-text__text3 {
   font-family: "Overpass";
-  font-style: "regular";
+  font-style: "normal";
+  font-weight: 400;
   font-size: 14px;
   line-height: 18px;
   line-height: 100%;
@@ -111,11 +117,10 @@ body {
 .socialmedia-blok {
   width: 200px;
   height: 24px;
-  margin-top: 89px;
-  margin-left: 13px;
   position: relative;
   float: left;
-  top: 400px;
+  top: 750px;
+  left: -127px;
 }
 .socialmedia-blok__img {
   width: 22px;
@@ -126,6 +131,9 @@ body {
   width: 900px;
   height: 800px;
   float: left;
-  margin-left: 520px;
-  margin-top: -250px;
+  margin-top: 38px;
+  margin-left: 664px;
+  position: relative;
+  top: -200px;
+  z-index: 0;
 }
