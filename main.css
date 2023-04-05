@@ -13,7 +13,7 @@ body {
   height: 38px;
   list-style: none;
   display: flex;
-  margin-left: 793px;
+  margin-left: 667px;
   margin-top: 134px;
   padding: 0px;
   align-items: center;
@@ -63,20 +63,60 @@ body {
 }
 .shadow {
   width: 281px;
-  height: 295px;
+  height: 395px;
   position: absolute;
 }
 .header-blok-text {
-  border: 1px black solid;
-  width: 514px;
+  width: 522px;
   height: 293px;
   margin-top: 328px;
   margin-left: 10px;
   position: absolute;
 }
 .header-blok-text__text1 {
+  font-family: "Fira Sans Condensed";
+  font-style: "regular";
+  font-size: 75px;
+  font-weight: 500;
+  line-height: 90px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
 }
 .header-blok-text__text2 {
+  font-family: "Fira Sans Condensed";
+  font-style: light;
+  font-size: 48px;
+  font-weight: 300;
+  line-height: 58px;
+  line-height: 100%;
+  text-align: left;
+  vertical-align: top;
 }
 .header-blok-text__text3 {
+  font-family: "Overpass";
+  font-style: "regular";
+  font-size: 14px;
+  line-height: 18px;
+  line-height: 100%;
+}
+.header-blok-text__knopka {
+  width: 144px;
+  margin-top: 36px;
+  position: relative;
+  left: -10px;
+}
+.socialmedia-blok {
+  width: 130px;
+  height: 24px;
+  margin-top: 89px;
+  margin-left: 13px;
+  border: 1px black solid;
+  position: relative;
+  float: left;
+  top: 400px;
+}
+.socialmedia-blok__img {
+  width: 22px;
+  height: 22px;
 }
