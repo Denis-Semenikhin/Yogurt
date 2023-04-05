@@ -25,14 +25,15 @@ body {
   position: relative;
   z-index: 1;
   left: -126px;
+  padding: 0;
 }
 .nav__link {
-  width: 81px;
-  height: 32px;
   margin-top: 3px;
   padding: 6px 22px 6px 22px;
   gap: 10px;
   text-decoration: none;
+  align-items: center;
+  margin-right: 22px;
 }
 .nav__text {
   color: rgb(37, 27, 55);
@@ -42,11 +43,6 @@ body {
   line-height: 20.26px;
   line-height: 100%;
   text-align: center top;
-  width: 37px;
-  height: 20px;
-  margin-top: 6px;
-  margin-left: 22px;
-  text-align: center;
 }
 .poisk-blok {
   height: 38px;
@@ -119,7 +115,7 @@ body {
   height: 24px;
   position: relative;
   float: left;
-  top: 750px;
+  top: 690px;
   left: -127px;
 }
 .socialmedia-blok__img {
