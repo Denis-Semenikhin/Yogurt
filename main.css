@@ -92,6 +92,7 @@ body {
   line-height: 100%;
   text-align: left;
   vertical-align: top;
+  margin-bottom: 20px;
 }
 .header-blok-text__text3 {
   font-family: "Overpass";
@@ -99,6 +100,7 @@ body {
   font-size: 14px;
   line-height: 18px;
   line-height: 100%;
+  width: 447px;
 }
 .header-blok-text__knopka {
   width: 144px;
@@ -107,11 +109,10 @@ body {
   left: -10px;
 }
 .socialmedia-blok {
-  width: 130px;
+  width: 200px;
   height: 24px;
   margin-top: 89px;
   margin-left: 13px;
-  border: 1px black solid;
   position: relative;
   float: left;
   top: 400px;
@@ -119,4 +120,12 @@ body {
 .socialmedia-blok__img {
   width: 22px;
   height: 22px;
+  margin-right: 30px;
+}
+.header__img {
+  width: 900px;
+  height: 800px;
+  float: left;
+  margin-left: 520px;
+  margin-top: -250px;
 }
