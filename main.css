@@ -129,7 +129,6 @@ body {
 }
 .logo {
   font-family: "Fira Sans Condensed";
-  font-style: normal;
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
@@ -154,7 +153,6 @@ body {
 }
 .header-blok-text__text1 {
   font-family: "Fira Sans Condensed";
-  font-style: "regular";
   font-size: 75px;
   font-weight: 500;
   line-height: 90px;
@@ -164,7 +162,6 @@ body {
 }
 .header-blok-text__text2 {
   font-family: "Fira Sans Condensed";
-  font-style: light;
   font-size: 48px;
   font-weight: 300;
   line-height: 58px;
@@ -175,7 +172,6 @@ body {
 }
 .header-blok-text__text3 {
   font-family: "Overpass";
-  font-style: "normal";
   font-weight: 400;
   font-size: 14px;
   line-height: 18px;
