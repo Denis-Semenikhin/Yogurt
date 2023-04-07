@@ -233,7 +233,7 @@ body {
   width: 252px;
   height: 415px;
   float: left;
-  margin-right: 150px;
+  margin-right: 140px;
   margin-left: 0;
   position: relative;
   left: -53px;
@@ -244,4 +244,53 @@ body {
   float: left;
   position: relative;
   left: -53px;
+}
+.why-us {
+  width: 1418px;
+  height: 610px;
+  margin: 0 auto;
+  text-align: center;
+  overflow: hidden;
+
+  position: relative;
+  top: -150px;
+}
+.why-us__title {
+  font-family: "Fira Sans Condensed";
+  font-size: 38px;
+  font-weight: 400;
+  margin-top: 16px;
+  margin-left: 35px;
+}
+.why-us__img {
+  width: 582px;
+  height: 610px;
+  float: left;
+  position: relative;
+  top: -100px;
+}
+.why-us__text {
+  width: 678px;
+  height: 324px;
+  margin-left: 662px;
+  margin-top: 57px;
+  text-align: left;
+  font-family: "Overpass";
+  font-weight: 400;
+  line-height: 18px;
+  line-height: 100%;
+  font-size: 14px;
+}
+.why-us__text--red {
+  text-align: left;
+  font-family: "Overpass";
+  font-weight: 400;
+  line-height: 18px;
+  line-height: 100%;
+  font-size: 14px;
+  color: red;
+}
+.why-us__knopka {
+  position: relative;
+  left: -300px;
 }
