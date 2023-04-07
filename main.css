@@ -207,3 +207,41 @@ body {
   top: -200px;
   z-index: 0;
 }
+.Our-products {
+  width: 1057px;
+  height: 550px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 3;
+  text-align: center;
+  vertical-align: top;
+}
+.Our-products__title {
+  font-size: 32px;
+  font-weight: 400;
+  font-family: "Fira Sans Condensed";
+  position: relative;
+  top: -280px;
+}
+.Our-products__blok {
+  width: 1057px;
+  height: 417px;
+  position: relative;
+  top: -170px;
+}
+.Our-products__img {
+  width: 252px;
+  height: 415px;
+  float: left;
+  margin-right: 150px;
+  margin-left: 0;
+  position: relative;
+  left: -53px;
+}
+.Our-products__img--1 {
+  width: 252px;
+  height: 415px;
+  float: left;
+  position: relative;
+  left: -53px;
+}
