@@ -125,7 +125,7 @@ body {
 .poisk-blok {
   height: 36px;
   position: relative;
-  left: -12px;
+  left: -33px;
 }
 .logo {
   font-family: "Fira Sans Condensed";
@@ -293,4 +293,22 @@ body {
 .why-us__knopka {
   position: relative;
   left: -300px;
+}
+.FAQ {
+  width: 1450px;
+  height: 579px;
+  margin-left: 100px;
+  margin-top: -150px;
+  background-color: aqua;
+  text-align: center;
+  padding-top: 126px;
+  position: relative;
+  left: 120px;
+}
+.FAQ__title {
+  font-size: 32px;
+  font-family: "Fira Sans Condensed";
+  font-weight: 400;
+}
+.FAQ__text-blok {
 }
