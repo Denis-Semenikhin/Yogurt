@@ -303,6 +303,8 @@ body {
   padding-top: 126px;
   position: relative;
   left: 120px;
+  border: 1px solid #000;
+  background-color: rgb(105, 79, 44);
 }
 .FAQ__title {
   font-size: 32px;
@@ -337,4 +339,6 @@ body {
   width: 600px;
   position: relative;
   top: -160px;
+}
+.footer {
 }
