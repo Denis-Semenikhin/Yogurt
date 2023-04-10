@@ -366,16 +366,16 @@ body {
   height: 119px;
   float: left;
 }
-.footer-blok-info__mini--title {
-  font-family: "Overpass";
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 30px;
-}
 .footer-blok-info__mini--text {
   line-height: 30px;
   font-family: "Overpass";
   font-weight: 400;
+}
+li:first-child {
+  line-height: 30px;
+  font-family: "Overpass";
+  font-weight: 700;
+  font-size: 16px;
 }
 .footer-blok-btm {
   width: 1088px;
@@ -401,4 +401,7 @@ body {
   border: 1px solid #000;
   background-image: url("img\Cherry yogurt.png");
   background-size: 100px 100px;
+}
+.footer-line {
+  width: 1088px;
 }
